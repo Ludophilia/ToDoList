@@ -23,4 +23,4 @@ L'application est optimisée pour iOS 15.
 
 ## Captures
 
-<img src="walkthough_iphone13.gif">
+<img src="walkthough_iphone13.gif" style="height:750px">
